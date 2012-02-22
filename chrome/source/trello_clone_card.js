@@ -23,5 +23,5 @@ var addClone = function(cardModel) {
 	// add the link to the end of the pop over menu
 	$(".pop-over-list").append(
 		$("<li>").append(cloneCardLink)
-	);
+	);		
 };

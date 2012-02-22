@@ -7,7 +7,7 @@
 *   Raine Lourie <https://github.com/RaineOrShine>
 */
 
-var debugMode = false;
+var debugMode = true;
 var log = function() { console.log(this, arguments); };
 
 /**Clones the current board
