@@ -4,3 +4,4 @@ injectScript(trello_clone_board_source);
 injectScript(trello_clone_button_source);
 injectScript(trello_clone_card_source);
 injectScript(trello_clone_list_source);
+injectScript(trello_clone_checklist_source);
