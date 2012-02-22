@@ -1,6 +1,6 @@
 {
   "name": "Trello Clone",
-  "version": "0.2",
+  "version": "0.2.1",
   "description": "Clone a Trello Board",
   "icons": { "128": "images/128-icon.png" },
   "homepage_url": "https://github.com/oo7ph/Trello-Clone",
@@ -13,6 +13,7 @@
 			"inject/trello_clone_board.js",
 			"inject/trello_clone_card.js",
 			"inject/trello_clone_list.js",
+			"inject/trello_clone_checklist.js",
 			"injectScript.js",
 			"injectManifest.js"
 		]
